@@ -1,0 +1,10 @@
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\bin\Debug\OOP-Assignment-1.exe.config
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\bin\Debug\OOP-Assignment-1.exe
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\bin\Debug\OOP-Assignment-1.pdb
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\obj\Debug\OOP-Assignment-1.csproj.AssemblyReference.cache
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\obj\Debug\OOP_Assignment_1.Form1.resources
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\obj\Debug\OOP_Assignment_1.Properties.Resources.resources
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\obj\Debug\OOP-Assignment-1.csproj.GenerateResource.cache
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\obj\Debug\OOP-Assignment-1.csproj.CoreCompileInputs.cache
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\obj\Debug\OOP-Assignment-1.exe
+X:\School\Visual Studio\Repository\OOP-Assignment-1\OOP-Assignment-1\obj\Debug\OOP-Assignment-1.pdb
